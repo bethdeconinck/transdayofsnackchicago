@@ -1,7 +1,11 @@
 
 header.site-header {
   background: #ffffff;
-  background: linear-gradient(150deg, rgba(85, 205, 252, 0.25) 0%, rgba(247, 168, 184, 0.25) 20%, rgba(255, 255, 255, 1) 40%);
+  background: linear-gradient(150deg, rgba(85, 205, 252, 0.25) 0%, rgba(247, 168, 184, 0.25) 20%, rgba(255, 255, 255, 1) 40%, rgba(247, 168, 184, 0.25) 80%, rgba(85, 205, 252, 0.25) 100%);
+}
+
+header.site-header .wrapper {
+  display: flex;
 }
 
 .site-title {
