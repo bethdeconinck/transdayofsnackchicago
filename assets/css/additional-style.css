@@ -10,4 +10,6 @@ header.site-header .wrapper {
 
 .site-title {
   font-weight: bold !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
