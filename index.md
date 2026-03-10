@@ -37,8 +37,13 @@ So in 2021 someone tweeted that instead of celebrating visibility, we should cel
 
 Our event is the simplest, silliest kind of mutual aid. We're going to have a table in a park with snacks. Come have a snack. That's it!
 
+## Do I need to sign up or provide any information at the event?
+No. Just come to the park and have a snack.
+
+We're going to have some other information there too that you might find useful or fun or interesting. But you don't need to register (snacks are first-come-first-served) and we aren't collecting anything about you. We're not taking any pictures to use on social media, we don't have an email list, none of that. It's just a table and some snacks.
+
 ## Is this the official Trans Day of Snack event for Chicago? What about this other one I heard about?
-You're really overthinking this. It's just a free snack. ❤️
+You're really overthinking this. It's really, truly, just a free snack. ❤️
 
 There's no "official" anything here, no umbrella organization, just a spontaneous expression of love and support for our community. We happened to buy the "transdayofsnackchicago" domain before anyone else, but that doesn't make us any more official than any other snack-based events happening today.
 
