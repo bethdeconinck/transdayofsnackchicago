@@ -1,7 +1,7 @@
 
 a {
   text-decoration: underline;
-  underline-position: under;
+  text-underline-position: under;
 }
 
 header.site-header {
@@ -13,7 +13,7 @@ header.site-header .wrapper {
   display: flex;
 }
 
-.site-title {
+a.site-title {
   font-weight: bold !important;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -21,6 +21,14 @@ header.site-header .wrapper {
   margin: 0.25rem;
   display: flex;
   flex-direction: row;
+  text-decoration: none;
+}
+
+a.site-title > * {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 0.15rem;
+  margin-right: 0.15rem;
 }
 
 a.site-title:hover {
@@ -29,7 +37,14 @@ a.site-title:hover {
 }
 
 @media screen and (max-width: 400px) {
-  .site-title {
+  a.site-title {
     flex-direction: column;
   }
+
+  a.site-title > * {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+  margin-left: auto;
+  margin-right: auto;
+}
 }
