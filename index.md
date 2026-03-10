@@ -2,5 +2,14 @@
 layout: page
 title: Tuesday, March 31, 2026
 ---
+## What
+Description
 
-Content goes here!
+## Where
+TBD
+
+## When
+Tuesday, March 31, 2026 at [Time TBD]
+
+## Why
+Description
