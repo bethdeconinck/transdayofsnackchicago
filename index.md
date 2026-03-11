@@ -27,9 +27,9 @@ Really! It's just a free snack for trans Chicagoans!
 
 You may be aware that March 31 is *also* **[International Trans Day of Visibility](https://en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility)**. Visibility is important! For some of us, the kind of visibility that TDoV inspires was important to our own gender journey.
 
-But visibility can also be vulnerability. And right now it's also just so very exhausting. You already know what's happening in our country and around the world. No need to rehash that. It's a lot, and we're all feeling it.
+But visibility can also be vulnerability. And right now it's also just so very exhausting.
 
-In 2021 someone named Lilith tweeted that instead of celebrating visibility, we should celebrate Trans Day of Staying In and Having A Nice Snack instead. The concept was popularized by Tuck Woodstock on the podcast [Gender Reveal](https://genderpodcast.com), and has grown into snack events and snack-themed mutual aid projects across the country.
+So back in 2021 someone named Lilith tweeted that instead of celebrating visibility, we should celebrate Trans Day of Staying In and Having A Nice Snack instead. The concept was popularized by Tuck Woodstock on the podcast [Gender Reveal](https://genderpodcast.com), and has grown into snack events and snack-themed mutual aid projects across the country.
 
 - [**Listen:** Trans Day of Snack 2026, *Gender Reveal*](https://gender.libsyn.com/bonus-trans-day-of-snack-2026)
 - [**Listen:** Trans Day of Snack 2025 with Jerika Che, *Gender Reveal*](https://gender.libsyn.com/bonus-trans-day-of-snack-2025-with-jerika-che)
