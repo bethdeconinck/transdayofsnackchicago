@@ -4,6 +4,10 @@ a {
   text-underline-position: under;
 }
 
+footer {
+  display: none;
+}
+
 header.site-header {
   background: #ffffff;
   background: linear-gradient(150deg, rgba(85, 205, 252, 0.25) 0%, rgba(247, 168, 184, 0.25) 20%, rgba(255, 255, 255, 1) 40%, rgba(247, 168, 184, 0.25) 80%, rgba(85, 205, 252, 0.25) 100%);
@@ -41,10 +45,25 @@ a.site-title:hover {
     flex-direction: column;
   }
 
-  a.site-title > * {
+  a.site-title > * {  
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
   margin-left: auto;
   margin-right: auto;
+  }
 }
+
+.post-content h2 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.post-header {
+  border-color: #999;
+}
+
+.site-header {
+  box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
+-webkit-box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
+-moz-box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
 }
