@@ -64,7 +64,7 @@ a.site-title:hover {
 }
 
 .site-header {
-  box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
--webkit-box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
--moz-box-shadow: 0 10px 8px 0 rgba(153,153,153,0.75);
+  box-shadow: 0 5px 3px 0 rgba(153,153,153,0.75);
+-webkit-box-shadow: 0 5px 3px 0 rgba(153,153,153,0.75);
+-moz-box-shadow: 0 5px 3px 0 rgba(153,153,153,0.75);
 }
