@@ -41,7 +41,9 @@ There might be TDoS events that have bigger ambitions elsewhere. Our event is ju
 ## Do I need to sign up or provide any information at the event?
 No. Just come to the park and have a snack.
 
-We're going to have some other information there too that you might find useful or fun or interesting. But you don't need to register (snacks are first-come-first-served) and we aren't collecting anything about you. We're not taking any pictures to use on social media, we don't have an email list, none of that. It's just a table and some snacks. We don't even know what we'd do with your information. At most we might tell you about our goofy idea for a podcast.
+We're going to have some other information there too that you might find useful or fun or interesting. But you don't need to register (snacks are first-come-first-served) and we aren't collecting anything about you. We're not taking any pictures to use on social media, we don't have an email list, none of that. It's just a table and some snacks. We don't even know what we'd do with your information. There's no ulterior motive.
+
+Wait, no, that's not true. We might tell you about our goofy idea for a podcast. But okay, besides *that*, no hidden agenda.
 
 If you start chatting with someone else getting a snack or one of the people giving away snacks and you really bond with them, please do feel free to share your personal information with that person. That's totally fine! But there's no organized data collection happening.
 
