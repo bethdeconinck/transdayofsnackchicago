@@ -7,17 +7,17 @@ Come have a free snack! That's it! You're welcome to hang out and chat for a lit
 
 Snack options to be determined, but we'll have a nice mix of healthy and unhealthy, gluten free, vegan friendly, etc.
 
+## Who
+Transgender, nonbinary, genderfluid, gender questioning, and otherwise gender expansive people who happen to be in Chicago on that day! If you think this *might* be for you, then congratulations, it's for you!
+
+Cisgender partners, family, and friends who are tagging along are welcome to have a snack too --- we're not going to turn anyone away. But this isn't really for them and when we run out of snacks we'll be done, so, use your best judgment about who you invite along.
+
 ## Where
 TBD
 (Section will include maps showing what park and where in the park)
 
 ## When
 Tuesday, March 31, 2026 at [Time TBD]. Snacking begins at [start time] and ends at [end time] or when we run out of food.
-
-## Who
-Transgender, nonbinary, genderfluid, gender questioning, and otherwise gender expansive people who happen to be in Chicago on that day! If you think this *might* be for you, then congratulations, it's for you!
-
-Cisgender partners, family, and friends who are tagging along are welcome to have a snack too --- we're not going to turn anyone away. But this isn't really for them and when we run out of snacks we'll be done, so, use your best judgment about who you invite along.
 
 ## Why
 You're all just super great, cool, and unbelievably sexy people. You deserve a nice snack!
