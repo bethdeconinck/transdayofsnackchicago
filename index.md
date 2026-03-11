@@ -50,7 +50,7 @@ If you start chatting with someone else getting a snack or one of the people giv
 ## I'm really worried that you're not thinking this through. Don't you want me to RSVP?
 Ugh, fine! If it makes you feel better, tell us if you're coming or not and that will help us plan how many snacks to bring. But this is **not required** and you can get a snack even if you don't RSVP.
 
-<iframe title="Trans Day of Snack Chicago - RSVP" src="https://docs.google.com/forms/d/e/1FAIpQLSc6SuVpBR_n6L2SnMjRmVT4m3eun230qYqO_9EzjZpktGZOlQ/viewform?embedded=true" width="640" height="753" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe title="Trans Day of Snack Chicago - RSVP" src="https://docs.google.com/forms/d/e/1FAIpQLSc6SuVpBR_n6L2SnMjRmVT4m3eun230qYqO_9EzjZpktGZOlQ/viewform?embedded=true" height="753" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%;">Loading…</iframe>
 
 ## Is this the official Trans Day of Snack event for Chicago? What about this other one I heard about?
 You're overthinking this. It's really, truly, just a free snack. ❤️
