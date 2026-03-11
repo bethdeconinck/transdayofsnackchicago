@@ -59,6 +59,10 @@ a.site-title:hover {
   margin-bottom: 0;
 }
 
+.post-content a {
+  color: #4300cc;
+}
+
 .post-header {
   border-color: #999;
 }
