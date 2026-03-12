@@ -89,6 +89,6 @@ I mean, sure? Email us at <a href="mailto:organizers@transdayofsnackchicago.org"
 ## Is this the official Trans Day of Snack event for Chicago? What about this other one I heard about?
 You're overthinking this. It's really, truly, just a free snack. ❤️
 
-There's no "official" anything here, no umbrella organization, just a spontaneous expression of love and support for our community. We happened to buy the "transdayofsnackchicago" domain before anyone else, but that doesn't make us any more official than any other snack-based events happening today.
+There's no "official" anything here, no umbrella organization, just a spontaneous expression of love and support for our community. We happened to buy the "transdayofsnackchicago" domain before anyone else, but that doesn't make us any more official than any other snack-based events happening around the area.
 
-If you know about other Trans Day of Snack events happening elsewhere in the city, we wholeheartedly encourage you to go to them too. Have multiple snacks! It's 2026, you've earned it!
+If you know about other Trans Day of Snack events happening nearby, we wholeheartedly encourage you to go to them too. Have multiple snacks! You've earned it!
