@@ -60,8 +60,10 @@ a.site-title:hover {
 }
 
 .post-content h3 {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   margin-bottom: 0;
+  font-style: italic;
+  font-weight: 400;
 }
 
 .post-content a {
