@@ -80,7 +80,7 @@ Ugh, fine! If it makes you feel better, tell us if you're coming or not and that
 No, no, you wouldn't want to do that. We're just giving snacks to trans people in the park. That's it. Don't make this harder than it needs to be.
 
 ## Can I talk about you on my social media accounts?
-<img src="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png" alt="Social media graphic with basic information about the event." style="float: right; max-width: 250px;" />
+<a href="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png"><img src="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png" alt="Social media graphic with basic information about the event." style="float: right; max-width: 250px; padding: 1rem;" /></a>
 Yes! Please feel free to share our event through any channel where you think a bunch of trans Chicagoans might see it! You can use our super simple graphic, or create your own better one.
 
 ## Can I help other ways? Can I donate money?
