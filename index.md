@@ -13,12 +13,12 @@ Transgender, nonbinary, genderfluid, gender questioning, and otherwise gender ex
 Cisgender partners, family, and friends who are tagging along are welcome to have a snack too --- we're not going to turn anyone away. But this isn't really for them and when we run out of snacks we'll be done, so, use your best judgment about who you invite along.
 
 ## When
-**Tuesday, March 31, 2026 at 3:00 PM**
+**Tuesday, March 31, 2026 at 3:00 PM.**
 
 Snacking begins at 3:00 PM and ends at 6:00 PM, or when we run out of food.
 
 ## Where
-**[Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park)**, at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo)
+**[Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park)**, at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo).
 
 <a href="https://maps.app.goo.gl/6CJHBq32DZjfvqKF9">2333 W. Sunnyside Ave.<br />
 Chicago, IL 60625</a>
@@ -33,7 +33,7 @@ Really! It's just a free snack for trans Chicagoans!
 
 You may be aware that March 31 is *also* **[International Trans Day of Visibility](https://en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility)**. Visibility is important! For some of us, the kind of visibility that TDoV inspires was important to our own gender journey.
 
-But visibility can also be vulnerability. And right now it's also just so very exhausting.
+But visibility can also be vulnerability. And right now it's just so very exhausting.
 
 So back in 2021 someone named Lilith tweeted that instead of celebrating visibility, we should celebrate Trans Day of Staying In and Having A Nice Snack instead. The concept was popularized by Tuck Woodstock on the podcast [Gender Reveal](https://genderpodcast.com), and has grown into snack events and snack-themed mutual aid projects across the country.
 
