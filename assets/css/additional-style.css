@@ -71,6 +71,14 @@ a.site-title:hover {
   color: #4300cc;
 }
 
+.post-content p {
+  margin-left: 30px;
+}
+
+.post-content ul, .post-content ol {
+  margin-left: 60px;
+}
+
 .post-header {
   border-color: #999;
 }
