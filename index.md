@@ -76,15 +76,19 @@ Ugh, fine! If it makes you feel better, tell us if you're coming or not and that
 
 <iframe title="Trans Day of Snack Chicago - RSVP" src="https://docs.google.com/forms/d/e/1FAIpQLSc6SuVpBR_n6L2SnMjRmVT4m3eun230qYqO_9EzjZpktGZOlQ/viewform?embedded=true" height="753" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%;">Loading…</iframe>
 
+## Do you have social media accounts that I should follow?
+No, no, you wouldn't want to do that. We're just giving snacks to trans people in the park. That's it. Don't make this harder than it needs to be.
+
+## Can I talk about you on my social media accounts?
+<img src="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png" alt="Social media graphic with basic information about the event." style="float: right;" />
+Yes! Please feel free to share our event through any channel where you think a bunch of trans Chicagoans might see it! You can use our super simple graphic, or create your own better one.
+
+## Can I help other ways? Can I donate money?
+I mean, sure? Email us at <a href="mailto:organizers@transdayofsnackchicago.org">organizers@transdayofsnackchicago.org</a> and we'll figure out a way for you to help out.
+
 ## Is this the official Trans Day of Snack event for Chicago? What about this other one I heard about?
 You're overthinking this. It's really, truly, just a free snack. ❤️
 
 There's no "official" anything here, no umbrella organization, just a spontaneous expression of love and support for our community. We happened to buy the "transdayofsnackchicago" domain before anyone else, but that doesn't make us any more official than any other snack-based events happening today.
 
 If you know about other Trans Day of Snack events happening elsewhere in the city, we wholeheartedly encourage you to go to them too. Have multiple snacks! It's 2026, you've earned it!
-
-## Do you have social media accounts that I should follow?
-No, no, you wouldn't want to do that. We're just giving snacks to trans people in the park. That's it. Don't make this harder than it needs to be.
-
-## Can I help? Can I donate money?
-I mean, sure? Email us at [email address] and we'll figure out a way for you to help out.
