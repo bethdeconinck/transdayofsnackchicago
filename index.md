@@ -12,35 +12,16 @@ Transgender, nonbinary, genderfluid, gender questioning, and otherwise gender ex
 
 Cisgender partners, family, and friends who are tagging along are welcome to have a snack too --- we're not going to turn anyone away. But this isn't really for them and when we run out of snacks we'll be done, so, use your best judgment about who you invite along.
 
+## When
+Tuesday, March 31, 2026 at [Time TBD]. Snacking begins at [start time] and ends at [end time] or when we run out of food.
+
 ## Where
 [Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park), at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo)
 
-### Address
 <a href="https://maps.app.goo.gl/6CJHBq32DZjfvqKF9">2333 W. Sunnyside Ave.<br />
 Chicago, IL 60625</a>
 
 The gazebo is near the center of the park, southwest of the main building.
-
-### Transit and parking
-**Bus:** 
-- #49, either the Western & Montrose or Western & Sunnyside stops
-- #78, Montrose & Oakley stop
-- #50, Damen & Montrose stop, then walk west three blocks to the park
-- #X49, Western & Leland (Western Brown Line station), then walk three blocks south to the park
-
-**Train:**
-- Western Brown Line station, then walk three blocks south to the park
-
-**Bike:**
-- Sunnyside, Montrose, and Lincoln have bike lanes
-- Divvy station in front of Sulzer Regional Library, corner of Sunnyside and Lincoln across the street from the park
-
-**Car:**
-- Free parking available on Leavitt behind Sulzer Regional Library, then walk one block west to the park
-- Limited street parking along Sunnyside, Montrose, Lincoln, Western, and nearby neighborhood streets
-
-## When
-Tuesday, March 31, 2026 at [Time TBD]. Snacking begins at [start time] and ends at [end time] or when we run out of food.
 
 ## Why
 You're all just super great, cool, and unbelievably sexy people. You deserve a nice snack!
@@ -60,6 +41,24 @@ So back in 2021 someone named Lilith tweeted that instead of celebrating visibil
 - [**Read:** The Mutual Aid Fund Raising Money to Buy Trans People Snacks, *Vice*](https://www.vice.com/en/article/tuck-woodstock-trans-day-of-visibility-mutual-aid-fund/)
 
 There might be TDoS events that have bigger ambitions elsewhere. Our event is just going to be the simplest, silliest kind of mutual aid. We're going to have a table in a park with snacks. Come have a snack. That's it!
+
+## How do I get there?
+**Bus:** 
+- #49, either the Western & Montrose or Western & Sunnyside stops
+- #78, Montrose & Oakley stop
+- #50, Damen & Montrose stop, then walk west three blocks to the park
+- #X49, Western & Leland (Western Brown Line station), then walk three blocks south to the park
+
+**Train:**
+- Western Brown Line station, then walk three blocks south to the park
+
+**Bike:**
+- Sunnyside, Montrose, and Lincoln have bike lanes
+- Divvy station in front of Sulzer Regional Library, corner of Sunnyside and Lincoln across the street from the park
+
+**Car:**
+- Free parking available on Leavitt behind Sulzer Regional Library, then walk one block west to the park
+- Limited street parking along Sunnyside, Montrose, Lincoln, Western, and nearby neighborhood streets
 
 ## Do I need to sign up or provide any information at the event?
 No. Just come to the park and have a snack.
