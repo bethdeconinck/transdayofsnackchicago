@@ -16,8 +16,8 @@ Cisgender partners, family, and friends who are tagging along are welcome to hav
 [Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park), at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo)
 
 ### Address
-2333 W. Sunnyside Ave.
-Chicago, IL 60625
+<a href="https://maps.app.goo.gl/6CJHBq32DZjfvqKF9">2333 W. Sunnyside Ave.<br />
+Chicago, IL 60625</a>
 
 The gazebo is near the center of the park, southwest of the main building.
 
