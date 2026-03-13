@@ -18,6 +18,8 @@ Cisgender partners, family, and friends who are tagging along are welcome to hav
 Snacking begins at 3:00 PM and ends at 6:00 PM, or when we run out of food.
 
 ## Where
+<a style="display: inline-block; margin: 0.5rem auto;" href="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png"><img src="http://transdayofsnackchicago.org/assets/welles-park-map.png" alt="Map of Welles Park, bounded by Sunnyside Ave (north), Lincoln Ave (east), Montrose Ave (South), and Western Ave (west). The gazebo is highlighted, just slightly to the west of the center of the park." style="max-width: 400px; padding: 0.5rem;" /></a>
+
 **[Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park)**, at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo).
 
 <a href="https://maps.app.goo.gl/6CJHBq32DZjfvqKF9">2333 W. Sunnyside Ave.<br />
