@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:2026-03-13T02:53:52.358Z@calendarlinkgenerator.com
+DTSTAMP:20260313T025352Z
+DTSTART:20260331T200000Z
+DTEND:20260331T230000Z
+SUMMARY:Trans Day of Snack Chicago
+DESCRIPTION:<p>If you are trans, nonbinary, genderfluid, questioning, or otherwise gender expansive, join us for a free snack!</p>
+LOCATION:2333 W. Sunnyside Ave, Chicago IL, 60625
+END:VEVENT
+END:VCALENDAR
