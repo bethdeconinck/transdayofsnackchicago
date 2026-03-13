@@ -13,12 +13,13 @@ Transgender, nonbinary, genderfluid, gender questioning, and otherwise gender ex
 Cisgender partners, family, and friends who are tagging along are welcome to have a snack too --- we're not going to turn anyone away. But this isn't really for them and when we run out of snacks we'll be done, so, use your best judgment about who you invite along.
 
 ## When
-**Tuesday, March 31, 2026 at 3:00 PM.**
+**Tuesday, March 31, 2026 at 3:00 PM.** Snacking begins at 3:00 PM and ends at 6:00 PM, or when we run out of food.
 
-Snacking begins at 3:00 PM and ends at 6:00 PM, or when we run out of food.
+- [Add to your Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trans%20Day%20of%20Snack%20Chicago&dates=20260331T200000Z/20260331T230000Z&details=%3Cp%3EIf%20you%20are%20trans%2C%20nonbinary%2C%20genderfluid%2C%20questioning%2C%20or%20otherwise%20gender%20expansive%2C%20join%20us%20for%20a%20free%20snack!%3C%2Fp%3E&location=2333%20W.%20Sunnyside%20Ave%2C%20Chicago%20IL%2C%2060625&ctz=America/Chicago)
+- [Add to your Outlook Calendar](https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addevent&subject=Trans%20Day%20of%20Snack%20Chicago&startdt=2026-03-31T20:00:00Z&enddt=2026-03-31T23:00:00Z&body=%3Cp%3EIf%20you%20are%20trans%2C%20nonbinary%2C%20genderfluid%2C%20questioning%2C%20or%20otherwise%20gender%20expansive%2C%20join%20us%20for%20a%20free%20snack!%3C%2Fp%3E&location=2333%20W.%20Sunnyside%20Ave%2C%20Chicago%20IL%2C%2060625)
 
 ## Where
-<a style="display: inline-block; margin: 0.5rem auto;" href="http://transdayofsnackchicago.org/assets/TDoS-social-poster.png"><img src="http://transdayofsnackchicago.org/assets/welles-park-map.png" alt="Map of Welles Park, bounded by Sunnyside Ave (north), Lincoln Ave (east), Montrose Ave (South), and Western Ave (west). The gazebo is highlighted, just slightly to the west of the center of the park." style="max-width: 400px; padding: 0.5rem;" /></a>
+<a style="display: inline-block; margin: 0.5rem auto;" href="http://transdayofsnackchicago.org/assets/welles-park-map"><img src="http://transdayofsnackchicago.org/assets/welles-park-map.png" alt="Map of Welles Park, bounded by Sunnyside Ave (north), Lincoln Ave (east), Montrose Ave (South), and Western Ave (west). The gazebo is highlighted, just slightly to the west of the center of the park." style="max-width: 100%; padding: 0.5rem;" /></a>
 
 **[Welles Park](https://www.chicagoparkdistrict.com/parks-facilities/welles-gideon-park)**, at or near the [gazebo](https://www.chicagoparkdistrict.com/parks-facilities/welles-gazebo).
 
