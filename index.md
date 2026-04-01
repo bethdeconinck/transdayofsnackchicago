@@ -2,28 +2,24 @@
 layout: page
 title: Tuesday, March 31, 2026
 ---
-<div class="thank-you">
 
   ## Thank You!
 
   Thank you to everyone who joined us for the inaugural Trans Day of Snack Chicago! We ended up retreating inside at 5PM because of cold temperatures, rain, and wind, but it was so nice to see so many people brave the weather to have a nice snack in the park.
 
   Some testimonials from the event:
-  <div class="testimonials">
     
-    - "It really is just a table with snacks"
-    - "Such a beautiful thing you're doing"
-    - "Not a cult"
-
-  </div>
+  - "It really is just a table with snacks"
+  - "Such a beautiful thing you're doing"
+  - "Not a cult"
 
   As we plan for our 2027 Day of Snack, here are a few opportunities for trans joy and community to check out that aren't explicitly snack based:
   - [**Lakeside Pride Resonate**](https://lakesidepride.org/ensembles/resonate/), a choir for trans, nonbinary, and other gender-expansive voices. (Come to their [concert on Saturday, April 4th!](https://lakesidepride.org/together))
   - [**Gender Fucked Productions**](https://www.genderfucked.org/), showcasing trans art and expression in so many forms
   - [**The Transmasculine Alliance Sports Club**](http://www.instagram.com/the.tmasc/), organizing sporting events for transmasc Chicagoans
   - [**T4Tee-Ball from Major Lez Baseball**](http://www.instagram.com/majorlezbaseball/), a tgirl baseball league (and check out [Chicago Transfem Spring Training on Thursday, April 2nd!](chicagotransfemspringtraining))
-  
-</div>
+
+---
 
 ## What
 Come have a free snack! That's it! You're welcome to hang out and chat for a little bit too, but no further interaction is required or expected.
