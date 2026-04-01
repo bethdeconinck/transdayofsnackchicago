@@ -10,9 +10,11 @@ title: Tuesday, March 31, 2026
 
   Some testimonials from the event:
   <div class="testimonials">
-  - "It really is just a table with snacks"
-  - "Such a beautiful thing you're doing"
-  - "Not a cult"
+    
+    - "It really is just a table with snacks"
+    - "Such a beautiful thing you're doing"
+    - "Not a cult"
+
   </div>
 
   As we plan for our 2027 Day of Snack, here are a few opportunities for trans joy and community to check out that aren't explicitly snack based:
